@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.air1.gate.pecare",
+    "sha256_cert_fingerprints":
+    ["73:0C:51:25:02:85:65:70:56:6A:2B:4B:83:29:2B:EC:76:10:8F:E5:6F:CC:67:4C:8A:D9:11:08:A8:0D:B0:91"]
+  }
+}]
