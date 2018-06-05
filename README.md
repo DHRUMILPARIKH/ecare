@@ -1,12 +1,9 @@
-# Structured documents
+# Final Year Project - "ECARE" 
 
-Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
+This is Android base project 
 
-### This is a third-tier heading
+### Screen shot
 
-You can use one `#` all the way up to `######` six for different heading sizes.
-
-If you'd like to quote someone, use the > character before the line:
-
-> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+> Home Screen
+![home](https://user-images.githubusercontent.com/30772806/40994358-9e914726-6919-11e8-97dd-82c6e0614c4d.png)
 > - Captain Janeway
