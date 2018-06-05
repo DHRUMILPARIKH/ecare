@@ -1,5 +1,8 @@
 <html>
-	<head><h1>ECARE</h1>
-		<h2>BE Final Year Project </h2> </head>
-	<body></body>
+	<head><h1>E-CARE</head>
+	<body>
+	<h2>BE Final Year Project On "ANDROID"</h2>
+	<h2>Screen shot is given bellow</h2>
+	<h2></h2>
+	</body>
 </html>
